@@ -3,9 +3,9 @@ Here's a fun and colorful README template for your GitHub profile:
 ---
 
 # 🌟 **Kunal Harshad Patil** 🌟  
-**B.Tech | TKIET University | Linux Enthusiast | Cybersecurity Learner**
+<!-- **B.Tech | TKIET University | Linux Enthusiast | Cybersecurity Learner**
 
-![Cool Linux Terminal](https://www.bing.com/images/search?view=detailV2&ccid=WTeTDrxu&id=708D5B2DFCD2FD1D071F169088B82A17882C8C08&thid=OIP.WTeTDrxubY98MUTDGFEBYwHaEK&mediaurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6MprgYmgTH4%2Fmaxresdefault.jpg&exph=720&expw=1280&q=collful+linux+terminal&simid=608004397444971923&FORM=IRPRST&ck=7E0C7DDE4C9C0C23DADF68E5E0B5E682&selectedIndex=3&itb=0&cw=1339&ch=666&ajaxhist=0&ajaxserp=0)  
+![Cool Linux Terminal]()  -->
 
 ---
 
@@ -61,7 +61,7 @@ I love exploring the **world of open-source**, customizing Linux terminals, and 
 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/kunalharshadpatil)  
 ---
 
-![Linux Cool](https://user-images.githubusercontent.com/your-image-url-here.png)
+<!-- ![Linux Cool](https://user-images.githubusercontent.com/your-image-url-here.png) -->
 
 ---
 
