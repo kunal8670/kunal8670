@@ -58,14 +58,13 @@ I love exploring the **world of open-source**, customizing Linux terminals, and 
 
 ### 🤝 **Join Me on My Linux & Cybersecurity Journey!**  
 **Let’s learn and grow together, one terminal command at a time.**  
-Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/kunalharshadpatil)  
+Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/kunal-patil-8733b528a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 ---
 
 <!-- ![Linux Cool](https://user-images.githubusercontent.com/your-image-url-here.png) -->
 
 ---
 
-Feel free to swap out the images or links where needed!
 
 <!---
 kunal8670/kunal8670 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
