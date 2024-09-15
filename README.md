@@ -1,4 +1,4 @@
-Here's a fun and colorful README template for your GitHub profile:
+
 
 ---
 
