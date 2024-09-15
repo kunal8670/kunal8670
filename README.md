@@ -5,7 +5,7 @@ Here's a fun and colorful README template for your GitHub profile:
 # 🌟 **Kunal Harshad Patil** 🌟  
 **B.Tech | TKIET University | Linux Enthusiast | Cybersecurity Learner**
 
-![Cool Linux Terminal](linux_terminal_modifay-1/images/5th.png)  
+![Cool Linux Terminal](images/5th.png)  
 
 ---
 
