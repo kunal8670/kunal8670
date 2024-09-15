@@ -29,7 +29,7 @@ I love exploring the **world of open-source**, customizing Linux terminals, and 
 
 1. **Advanced Linux Tutorial Series**:  
    Customization, automation, and scripting with AI – a complete pro-level guide!  
-   [Check it out on GitHub](https://github.com/kunalharshadpatil)
+   [Check it out on GitHub](https://github.com/kunal8670?tab=repositories)
 
 2. **Cybersecurity Tools and Scripts**:  
    Developing automation scripts and ethical hacking tools.
