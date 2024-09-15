@@ -18,7 +18,7 @@ I love exploring the **world of open-source**, customizing Linux terminals, and 
 
 ## 💻 **What I’m Learning**:
 
-- **Linux Terminal Customization** (PS1, Powerline, Figlet & Lolcat for the win! 😎)
+- **Linux Terminal Customization** (PS1,PS2,PS3,PS4 and PS0 Powerline, Figlet & Lolcat for the win! 😎)
 - **Red Teaming** and Cybersecurity (Learning the *"art of hacking"*, the ethical way, of course!)
 - **IoT** and **Hardware** – It's not just about software, right? 😜
 - Exploring **AI & Automation** to make life easier through scripting and cron jobs.
