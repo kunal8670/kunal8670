@@ -39,7 +39,7 @@ I love exploring the **world of open-source**, customizing Linux terminals, and 
 
 ---
 
-## 🎯 **Goals for 2024**:
+## 🎯 **Goals**:
 
 - **Conquer Red Hat Certifications (RHCSA & RHCE)** 🔥
 - **Master Kali Linux** for advanced pen testing and security analysis.
