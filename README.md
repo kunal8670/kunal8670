@@ -1,5 +1,9 @@
 <h1 align="center">✨ Kunal Harshad Patil ✨</h1>  
-<h3 align="center">Red Team Enthusiast | Linux Geek | AI Experimenter</h3>  
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/KunalPatil.png" alt="Your Image Badge" />
+</div>
+<h3 align="center">Red Team Enthusiast | Linux Geek | AI Experimenter</h3>
+
 
 ---
 
