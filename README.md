@@ -77,8 +77,8 @@ Step-by-step guides for mastering Linux, from PS1 customization to scripting wit
 ### 📫 **Let’s Connect!**  
 
 💻 **GitHub**: [github.com/kunal8670](https://github.com/kunal8670)  
-💼 **LinkedIn**: [linkedin.com/in/kunal8670](https://linkedin.com/in/kunal8670)  
-🐦 **Twitter**: [twitter.com/kunal8670](https://twitter.com/kunal8670)  
+💼 **LinkedIn**: [linkedin.com/in/kunal8670](https://www.linkedin.com/in/kunal-patil-8733b528a/)  
+
 
 ---
 
