@@ -17,7 +17,7 @@
 
 🚀 **Certifications**  
 - ✅ Pre-Security Certified (TryHackMe).  
-- 🏆 Pursuing **CEH v13** (Certified Ethical Hacker).  
+- 🏆 Pursuing **CEH vxx** (Certified Ethical Hacker).  
 - 📖 Creator of the **Linux10x Journey**: A daily dose of advanced Linux commands and hacks.  
 
 ---
